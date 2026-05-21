@@ -1,0 +1,4 @@
+export const INIT = "init_game"
+export const PROGRESS = "progress_game"
+export const OTHERPLAYERLEFT= "otherplayerleft"
+export const GAMEOVER = "game_over"
