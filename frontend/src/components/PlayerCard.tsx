@@ -1,4 +1,3 @@
-import React from 'react'
 import Card from './Card'
 import { useCounter } from '../hooks/useCounter'
 import { useMyState } from '../context/OurContext'

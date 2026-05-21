@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from './Navbar'
 import { FiMonitor } from 'react-icons/fi'
 

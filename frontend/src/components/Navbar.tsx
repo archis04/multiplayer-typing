@@ -1,4 +1,3 @@
-import React from 'react'
 import { MdKeyboardAlt } from "react-icons/md";
 
 

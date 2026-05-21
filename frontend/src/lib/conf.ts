@@ -1,4 +1,4 @@
-export const WSURL = "ws://localhost:8081/"
+export const WSURL = "wss://multiplayer-typing-backend.onrender.com/"
 export const INIT = "init_game"
 export const PROGRESS = "progress_game"
 export const OTHERPLAYERLEFT= "otherplayerleft"
